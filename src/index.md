@@ -1,5 +1,5 @@
 ---
-title: "Document your next project a little bit better."
+title: "Explore Privacy-Powered & Shielded On-chain Transactions."
 headline: "Eleventy / ZKML"
 btns:
 -
@@ -10,7 +10,7 @@ btns:
     caption: "Changelog"
     url: "/changelog/"
     type: "outline"
-summary: "Do you work on a project that requires a documentation? This theme is for you. It's a simple, clean and responsive theme for Eleventy."
+summary: "zkShield is a Decentralized Application (DApp) built on the XRPL chain which provides users with a maximum on-chain transaction privacy. This is your gateway to confidential transactions involving CBDCs."
 displaySummary: true
 layout: "layouts/front-page.html"
 overview:
