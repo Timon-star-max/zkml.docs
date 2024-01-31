@@ -22,7 +22,7 @@
 
 A documentation template is always helpful. There are a lot of solutions to make one; we wanted to create our self-hosted version based on our favorite static site generator [Eleventy](https://www.11ty.dev/).
 
-By structure, it is simple, with two levels and additional custom templates like [FAQ]([/faq/](https://eleventy-documentation.zkml-contract-zew2.vercel.app/faq/)) and [Changelog]([/changelog/](https://eleventy-documentation.zkml-contract-zew2.vercel.app/changelog/)).
+By structure, it is simple, with two levels and additional custom templates like [FAQ]([/faq/](https://eleventy-documentation.zk-contract.vercel.app/faq/)) and [Changelog]([/changelog/](https://eleventy-documentation.zk-contract.vercel.app/changelog/)).
 
 ## ZKML
 
@@ -94,7 +94,7 @@ To create simple pages, make a file directly under the `src` folder and configur
 ```html
 spruecss-eleventy-documentation-template/
 ├─ node_modules/
-├─ _site/
+├─ _site_/
 ├─ src/
 │  ├─ _data/
 │  ├─ _includes/
