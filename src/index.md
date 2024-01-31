@@ -7,8 +7,8 @@ btns:
     url: "/getting-started/introduction/"
     type: "regular"
 -
-    caption: "Changelog"
-    url: "/changelog/"
+    caption: "Roadmap"
+    url: "/roadmap/"
     type: "outline"
 summary: "zkShield is a Decentralized Application (DApp) built on the XRPL chain which provides users with a maximum on-chain transaction privacy. This is your gateway to confidential transactions involving CBDCs."
 displaySummary: true

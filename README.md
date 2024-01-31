@@ -22,7 +22,7 @@
 
 A documentation template is always helpful. There are a lot of solutions to make one; we wanted to create our self-hosted version based on our favorite static site generator [Eleventy](https://www.11ty.dev/).
 
-By structure, it is simple, with two levels and additional custom templates like [FAQ]([/faq/](https://eleventy-documentation.zk-contract.vercel.app/faq/)) and [Changelog]([/changelog/](https://eleventy-documentation.zk-contract.vercel.app/changelog/)).
+By structure, it is simple, with two levels and additional custom templates like [FAQ]([/faq/](https://eleventy-documentation.zk-contract.vercel.app/faq/)) and [Roadmap]([/roadmap/](https://eleventy-documentation.zk-contract.vercel.app/roadmap/)).
 
 ## ZKML
 
@@ -35,7 +35,7 @@ The template is built on [ZKML](https://zk-contract.vercel.app/), a small and cu
 - Anchor headings.
 - Table of Content.
 - FAQ template.
-- Changelog template.
+- Roadmap template.
 - Static search integration with [pagefind](https://pagefind.app/).
 - Code highlighting.
 - RTL support.
@@ -107,7 +107,7 @@ spruecss-eleventy-documentation-template/
 │  ├─ scss/
 │  ├─ shortcodes/
 │  ├─ transforms/
-│  ├─ changelog.md
+│  ├─ roadmap.md
 │  ├─ faq.md
 │  ├─ index.md
 ├─ .eleventy.js
