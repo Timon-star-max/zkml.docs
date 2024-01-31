@@ -94,7 +94,7 @@ To create simple pages, make a file directly under the `src` folder and configur
 ```html
 spruecss-eleventy-documentation-template/
 ├─ node_modules/
-├─ dist/
+├─ _site/
 ├─ src/
 │  ├─ _data/
 │  ├─ _includes/
