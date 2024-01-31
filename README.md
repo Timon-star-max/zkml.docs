@@ -1,5 +1,5 @@
 <p>
-    <a href="https://zkml-contract-zew2.vercel.app/">
+    <a href="https://zk-contract.vercel.app/">
         <br>
         <picture>
             <source media="(prefers-color-scheme: light)" srcset="./.github/spruce-logo-dark.svg">
@@ -26,7 +26,7 @@ By structure, it is simple, with two levels and additional custom templates like
 
 ## ZKML
 
-The template is built on [ZKML](https://zkml-contract-zew2.vercel.app/), a small and customizable CSS framework. The main benefit of this is that you can use the Zkml UI components with dark mode and RTL support.
+The template is built on [ZKML](https://zk-contract.vercel.app/), a small and customizable CSS framework. The main benefit of this is that you can use the Zkml UI components with dark mode and RTL support.
 
 ## Technical Description
 

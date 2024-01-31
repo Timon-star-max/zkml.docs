@@ -17,7 +17,7 @@ eleventyNavigation:
 - It is a relatively small (~7kb gzipped) framework with a smaller learning curve. The codebase is small but can add more to any project with the available mixins and functions.
 - It is that bunch of code you keep manually carrying from project to project.
 - It is themeable. You can create different themes using CSS custom properties like a dark one.
-- The generated CSS code is separated from the framework. You can use only the tools (variables, mixins, functions) in your project [without the generated styles](https://zkml-contract-zew2.vercel.app/docs/elements/generators).
+- The generated CSS code is separated from the framework. You can use only the tools (variables, mixins, functions) in your project [without the generated styles](https://zk-contract.vercel.app/docs/elements/generators).
 - Include just a few components. For UI, we have a separate project named [Zkml UI](/ui/getting-started/introduction), where you can find drop-in components.
-- [It comes with dark-mode](https://zkml-contract-zew2.vercel.app/docs/customization/themes) (or any theme mode) support. It uses CSS custom properties, so it isn’t that hard to create a new color theme.
+- [It comes with dark-mode](https://zk-contract.vercel.app/docs/customization/themes) (or any theme mode) support. It uses CSS custom properties, so it isn’t that hard to create a new color theme.
 - It doesn’t come with a classical grid system.
